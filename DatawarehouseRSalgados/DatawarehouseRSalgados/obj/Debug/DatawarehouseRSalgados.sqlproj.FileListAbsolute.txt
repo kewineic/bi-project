@@ -1,0 +1,5 @@
+C:\Users\kewin\Desktop\Projeto Alura\projeto_powerBI\DatawarehouseRSalgados\DatawarehouseRSalgados\bin\Debug\DatawarehouseRSalgados.dacpac
+C:\Users\kewin\Desktop\Projeto Alura\projeto_powerBI\DatawarehouseRSalgados\DatawarehouseRSalgados\bin\Debug\DatawarehouseRSalgados.dll
+C:\Users\kewin\Desktop\Projeto Alura\projeto_powerBI\DatawarehouseRSalgados\DatawarehouseRSalgados\bin\Debug\DatawarehouseRSalgados.pdb
+C:\Users\kewin\Desktop\Projeto Alura\projeto_powerBI\DatawarehouseRSalgados\DatawarehouseRSalgados\obj\Debug\DatawarehouseRSalgados.dll
+C:\Users\kewin\Desktop\Projeto Alura\projeto_powerBI\DatawarehouseRSalgados\DatawarehouseRSalgados\obj\Debug\DatawarehouseRSalgados.pdb
