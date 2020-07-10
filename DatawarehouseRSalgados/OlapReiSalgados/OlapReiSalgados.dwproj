@@ -6,6 +6,38 @@
     <Name>OlapReiSalgados.database</Name>
     <FullPath>OlapReiSalgados.database</FullPath>
   </Database>
+  <Cubes>
+    <ProjectItem>
+      <Name>VENDAS.cube</Name>
+      <FullPath>VENDAS.cube</FullPath>
+      <Dependencies>
+        <ProjectItem>
+          <Name>VENDAS.partitions</Name>
+          <FullPath>VENDAS.partitions</FullPath>
+        </ProjectItem>
+      </Dependencies>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>CUSTOS.cube</Name>
+      <FullPath>CUSTOS.cube</FullPath>
+      <Dependencies>
+        <ProjectItem>
+          <Name>CUSTOS.partitions</Name>
+          <FullPath>CUSTOS.partitions</FullPath>
+        </ProjectItem>
+      </Dependencies>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>PRESIDENCIA.cube</Name>
+      <FullPath>PRESIDENCIA.cube</FullPath>
+      <Dependencies>
+        <ProjectItem>
+          <Name>PRESIDENCIA.partitions</Name>
+          <FullPath>PRESIDENCIA.partitions</FullPath>
+        </ProjectItem>
+      </Dependencies>
+    </ProjectItem>
+  </Cubes>
   <Dimensions>
     <ProjectItem>
       <Name>Fabrica.dim</Name>
@@ -14,6 +46,18 @@
     <ProjectItem>
       <Name>Cliente.dim</Name>
       <FullPath>Cliente.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Produto.dim</Name>
+      <FullPath>Produto.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Organizacional.dim</Name>
+      <FullPath>Organizacional.dim</FullPath>
+    </ProjectItem>
+    <ProjectItem>
+      <Name>Tempo.dim</Name>
+      <FullPath>Tempo.dim</FullPath>
     </ProjectItem>
   </Dimensions>
   <DataSources>

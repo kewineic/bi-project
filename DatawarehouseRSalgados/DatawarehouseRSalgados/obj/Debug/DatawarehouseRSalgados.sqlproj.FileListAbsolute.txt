@@ -3,3 +3,8 @@ C:\Users\kewin\Desktop\Projeto Alura\projeto_powerBI\DatawarehouseRSalgados\Data
 C:\Users\kewin\Desktop\Projeto Alura\projeto_powerBI\DatawarehouseRSalgados\DatawarehouseRSalgados\bin\Debug\DatawarehouseRSalgados.pdb
 C:\Users\kewin\Desktop\Projeto Alura\projeto_powerBI\DatawarehouseRSalgados\DatawarehouseRSalgados\obj\Debug\DatawarehouseRSalgados.dll
 C:\Users\kewin\Desktop\Projeto Alura\projeto_powerBI\DatawarehouseRSalgados\DatawarehouseRSalgados\obj\Debug\DatawarehouseRSalgados.pdb
+C:\Users\kewin\Desktop\Projeto Alura\projeto_powerBI\DatawarehouseRSalgados\DatawarehouseRSalgados\obj\Debug\DatawarehouseRSalgados.sqlprojAssemblyReference.cache
+C:\Users\kewin\Desktop\Projeto Alura\projeto_powerBI\DatawarehouseRSalgados\DatawarehouseRSalgados\obj\Debug\Model.xml
+C:\Users\kewin\Desktop\Projeto Alura\projeto_powerBI\DatawarehouseRSalgados\DatawarehouseRSalgados\obj\Debug\refactor.xml
+C:\Users\kewin\Desktop\Projeto Alura\projeto_powerBI\DatawarehouseRSalgados\DatawarehouseRSalgados\obj\Debug\postdeploy.sql
+C:\Users\kewin\Desktop\Projeto Alura\projeto_powerBI\DatawarehouseRSalgados\DatawarehouseRSalgados\obj\Debug\predeploy.sql

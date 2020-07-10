@@ -45,6 +45,48 @@
           <String>Cliente</String>
         </ID>
       </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>GwZHjn6rOcMwvRHCfWlafD88Smk=09/07/2020 21:18:2409/07/2020 21:15:42</TimeStamp>
+        <ID>
+          <String>Produto</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>2q/Zx02+pjoUXeQxWMl2U7P5PSc=09/07/2020 21:38:1509/07/2020 21:25:43</TimeStamp>
+        <ID>
+          <String>Organizacional</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>2jbVGDBYrgg/IdFLKiobf84XHyA=09/07/2020 22:12:5909/07/2020 21:48:43</TimeStamp>
+        <ID>
+          <String>Tempo</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>N6e4YqU7XzMwl6jZBZNMeEKJx0w=10/07/2020 08:29:2510/07/2020 08:01:57qZAtH6n+/bmu1Zz9dYC9IzVvfOo=10/07/2020 08:01:5810/07/2020 08:01:57</TimeStamp>
+        <ID>
+          <String>VENDAS</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>p0rwHAn1Ko0LyJHuU5/DeQwenhU=10/07/2020 08:53:1510/07/2020 08:44:53eivnUe6jE0DwDhGr7y9qG2MLRxE=10/07/2020 08:44:5310/07/2020 08:44:53</TimeStamp>
+        <ID>
+          <String>DW REI SALGADOS</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>i5+3qpOd4B2SA+NdFGe+GpPYeW8=10/07/2020 09:31:3310/07/2020 09:10:33bTACjpRsMV60YyHM9bbbal5tzMg=10/07/2020 09:10:3310/07/2020 09:10:33</TimeStamp>
+        <ID>
+          <String>PRESIDENCIA</String>
+        </ID>
+      </ObjectSnapshot>
     </ObjectSnapshots>
     <DatabaseSnapshot>
       <Type>Microsoft.AnalysisServices.Database</Type>
@@ -57,5 +99,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2020-07-09T22:51:34.513333Z</LastDeployed>
+  <LastDeployed>2020-07-10T12:31:40.553333Z</LastDeployed>
 </DeploymentSnapshot>
