@@ -26,7 +26,7 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.DataSourceView</Type>
-        <TimeStamp>TaeR0+P7YcQ6JDSap0vRAHgQg4c=09/07/2020 19:29:1809/07/2020 18:54:08</TimeStamp>
+        <TimeStamp>Egie7wckAwfrh2JOFIZwgBcxeC0=10/07/2020 12:47:1309/07/2020 18:54:08</TimeStamp>
         <ID>
           <String>DW REI SALGADOS</String>
         </ID>
@@ -82,9 +82,16 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>i5+3qpOd4B2SA+NdFGe+GpPYeW8=10/07/2020 09:31:3310/07/2020 09:10:33bTACjpRsMV60YyHM9bbbal5tzMg=10/07/2020 09:10:3310/07/2020 09:10:33</TimeStamp>
+        <TimeStamp>i5+3qpOd4B2SA+NdFGe+GpPYeW8=10/07/2020 09:32:4110/07/2020 09:10:33bTACjpRsMV60YyHM9bbbal5tzMg=10/07/2020 09:10:3310/07/2020 09:10:33</TimeStamp>
         <ID>
           <String>PRESIDENCIA</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>s1RdJeTcLPmge2l3LR65R8Y87tk=12/07/2020 13:19:0510/07/2020 12:49:36qHDUzV9nqsf6WAN/QlUl8T161AM=10/07/2020 12:49:3610/07/2020 12:49:36</TimeStamp>
+        <ID>
+          <String>COMPLETO</String>
         </ID>
       </ObjectSnapshot>
     </ObjectSnapshots>
@@ -99,5 +106,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2020-07-10T12:31:40.553333Z</LastDeployed>
+  <LastDeployed>2020-07-12T16:50:50.56Z</LastDeployed>
 </DeploymentSnapshot>
